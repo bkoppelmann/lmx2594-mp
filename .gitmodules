@@ -1,0 +1,6 @@
+[submodule "micropython"]
+	path = micropython
+	url = https://github.com/bkoppelmann/micropython.git
+[submodule "freedom-e-sdk"]
+	path = freedom-e-sdk
+	url = https://github.com/hni-sct/freedom-e-sdk.git
